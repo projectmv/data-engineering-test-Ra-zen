@@ -1,0 +1,23 @@
+/target
+/project/target
+/project/project/target
+*.class
+*.iml
+*.ipr
+*.iws
+/.idea
+out
+
+/.bloop
+/.idea
+/.metals
+/.vscode
+**/target
+**/metastore_db
+
+# trash
+*.log
+*.jar
+*.zip
+*.java
+*.iml
